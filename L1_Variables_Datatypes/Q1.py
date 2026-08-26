@@ -5,4 +5,4 @@ num2 = int(input("Enter 2nd number: "))
 
 sum = num1 + num2
 
-print(sum)
+print("Sum of 2 numbers: ", sum)
